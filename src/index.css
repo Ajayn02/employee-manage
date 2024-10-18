@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+*{
+  margin: 0px ;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+.hbtn{
+  color: black;
+}
+
+.hbtn:hover{
+    background-color:#15b7a4;
+    color: white;
+}
